@@ -6,7 +6,8 @@
 ### Step 1
 Flash your ESP32 with tasmota-display.bin. Reboot and connect to your Wifi.\
 Ensure to use the correct firmware depending on your board (ESP-S2, ESP-C3 etc.)!\
-[!NOTE] You will need **Universal File System** Support (for the diplay.ini file) and **UniversalDisplay** Support on the device.\
+[!NOTE]
+You will need **Universal File System** Support (for the diplay.ini file) and **UniversalDisplay** Support on the device.\
 This will only work with 4M+ devices.
 
 ### Step 2
