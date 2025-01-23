@@ -12,11 +12,11 @@ This will only work with 4M+ devices.
 ### Step 2
 Open the Web UI and go to Configuration > Module
 
-GND > GND\		
+GND > GND\
 VCC > 3.3V\
 SCL > GPIO07 > SPI CLK\
-SDA > GPIO11 > SPI MOSI\		
-RES > GPIO05 > Display Rst\	
+SDA > GPIO11 > SPI MOSI\
+RES > GPIO05 > Display Rst\
 DC > GPIO09 > SPI DC\
 CS > GPIO012 > SPI CS\
 BLK > GPIO03 > PWM (to adjust Backgrund LED in WebUI)\
