@@ -1,11 +1,18 @@
 # PIR Motion Sensor
-## HEADER 2
-IMAGE drag and drop
-here
+## ESP232 with PIR Motion Sensor
+![ESP32_PIR_SENSOR](https://github.com/user-attachments/assets/b45f83b4-c85f-4262-a1f5-c05c0b3da100)
+
 
 ## How To
 ### Step 1
-Text goes here...\
+As the PIR sensor is implemented as a switch there is no need for special firmware.\
+Open the Web UI and go to Configuration > Module
+
+| PIR | GPIO | Module |
+| :------ | :------ | :------ |
+| GND | GND | `GND` |
+| VCC | 3.3V | `3.3V` |
+| SCL | GPIO01 | `Switch` |
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
