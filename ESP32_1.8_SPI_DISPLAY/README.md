@@ -1,4 +1,4 @@
-# ESP32_1.8_SPI_DISPLAY
+# ESP32 1.8inch SPI DISPLAY
 ## 1.8 Inch SPI Display on S2-MINI Board driven by UniversalDisplay and ST7735 Driver.
 ![ESP32_1 8_SPI_DISPLAY](https://github.com/user-attachments/assets/110dd347-68e3-4918-b1d6-bf47b45172f8)
 ## How To
