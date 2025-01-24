@@ -12,7 +12,7 @@ Ensure to use the correct firmware depending on your board (ESP-S2, ESP-C3 etc.)
 Open the Web UI and go to Configuration > Module
 
 | Display | S2-Mini GPIO | Module |
-| ------ | ------ | ------ |
+| :------ | :------ | :------ |
 | GND | GND | `GND` |
 | VCC | 3.3V | `3.3V` |
 | SCL | GPIO07 | `SPI CLK` |
