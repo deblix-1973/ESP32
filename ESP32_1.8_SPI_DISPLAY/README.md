@@ -5,7 +5,7 @@
 ### Step 1
 Flash your ESP32 with tasmota32-display.bin. Reboot and connect to your Wifi and MQTT broker.\
 Ensure to use the correct firmware depending on your board (ESP-S2, ESP-C3 etc.).
-> [!NOTE]
+> [!TIP]
 > You will need **Universal File System** Support (for the diplay.ini file) and **UniversalDisplay** Support on the device.\
 > This will only work with 4M+ devices.
 ### Step 2
@@ -33,6 +33,7 @@ Adjust your Display via Console using commands like...
 
 > [!NOTE]
 The command **DisplayDimmer** will not work with this example as it is controlled via the slider in the WebUI.
+> 
 ![WebUI](https://github.com/user-attachments/assets/a8e20420-09a8-4834-abca-12677e112e40)
 
 ### Ready to Go!
