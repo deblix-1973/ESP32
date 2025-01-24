@@ -32,9 +32,9 @@ Adjust your Display via Console using commands like...
 + DisplayText
 
 > [!NOTE]
-The command **DisplayDimmer** will not work with this example as it is controlled via the slider in the WebUI.
+> The command **DisplayDimmer** will not work with this example as it is controlled via the slider in the WebUI.
 > 
-![WebUI](https://github.com/user-attachments/assets/a8e20420-09a8-4834-abca-12677e112e40)
+> ![WebUI](https://github.com/user-attachments/assets/a8e20420-09a8-4834-abca-12677e112e40)
 
 ### Ready to Go!
 
