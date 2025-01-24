@@ -6,4 +6,4 @@ Home Automation with ESP32
 
 | Projects |
 | :------ |
-| [Flashboard](https://github.com/deblix-1973/ESP8266/blob/main/ESP8266_FLASHBOARD/README.md#esp8266_flashboard) |
+| [1.8 SPI Display](https://github.com/deblix-1973/ESP32/blob/main/ESP32_1.8_SPI_DISPLAY/README.md#esp32_18_spi_display) |
