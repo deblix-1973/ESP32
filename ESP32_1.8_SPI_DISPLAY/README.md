@@ -19,7 +19,7 @@ Open the Web UI and go to Configuration > Module
 | SDA | GPIO11 | `SPI MOSI` |
 | RES | GPIO05 | `Display Rst` |
 | DC | GPIO09 | `SPI DC` |
-| CS | GPIO012 | `SPI CS` |
+| CS | GPIO12 | `SPI CS` |
 | BLK | GPIO03 | `PWM` |
 
 Set any unused GPIO to `OptionA3` (e. g. GPIO02) to start uDriver and load the display driver settings.
