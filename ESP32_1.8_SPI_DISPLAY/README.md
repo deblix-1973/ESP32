@@ -23,6 +23,11 @@ Open the Web UI and go to Configuration > Module
 Set any unused GPIO to `OptionA3` (e. g. GPIO02) to start uDriver and load the display driver settings.
 ### Step 3
 Download the corresponding display.ini file from the Tasmota Github Space and upload this file to your device.
-### Restart!
+
+### Step 4
+Adjust your Display via Console using commands like...
+> DisplayRotate<x>
+
+### Restart and Go!
 
 
