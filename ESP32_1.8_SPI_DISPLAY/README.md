@@ -18,7 +18,7 @@ Open the Web UI and go to Configuration > Module
 > RES > GPIO05 > `Display Rst`\
 > DC > GPIO09 > `SPI DC`\
 > CS > GPIO012 > `SPI CS`\
-> BLK > GPIO03 > `PWM` (to adjust Backgrund LED in WebUI)\
+> BLK > GPIO03 > `PWM` (to adjust Backgrund LED in WebUI)
 
 Set any unused GPIO to `OptionA3` (e. g. GPIO02) to start uDriver and load the display driver settings.
 ### Step 3
