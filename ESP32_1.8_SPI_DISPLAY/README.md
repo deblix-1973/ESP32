@@ -11,7 +11,7 @@ Ensure to use the correct firmware depending on your board (ESP-S2, ESP-C3 etc.)
 ### Step 2
 Open the Web UI and go to Configuration > Module
 
-| Display | S2-Mini | GPIO |
+| Display | S2-Mini GPIO | Module |
 | --- | --- | --- |
 | GND | GND | `GND` |
 | VCC | 3.3V | `3.3V` |
@@ -20,19 +20,10 @@ Open the Web UI and go to Configuration > Module
 | RES | GPIO05 | `Display Rst` |
 | DC | GPIO09 | `SPI DC` |
 | CS | GPIO012 | `SPI CS` |
-| BLK | GPIO03 | `PWM` (to adjust Backgrund LED in WebUI) |
-
-
-> GND > GND\
-> VCC > 3.3V\
-> SCL > GPIO07 > `SPI CLK`\
-> SDA > GPIO11 > `SPI MOSI`\
-> RES > GPIO05 > `Display Rst`\
-> DC > GPIO09 > `SPI DC`\
-> CS > GPIO012 > `SPI CS`\
-> BLK > GPIO03 > `PWM` (to adjust Background LED in WebUI)
+| BLK | GPIO03 | `PWM` |
 
 Set any unused GPIO to `OptionA3` (e. g. GPIO02) to start uDriver and load the display driver settings.
+
 ### Step 3
 Download the corresponding display.ini file from the Tasmota Github Space and upload this file to your device.
 
