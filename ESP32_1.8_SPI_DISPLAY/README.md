@@ -26,7 +26,7 @@ Download the corresponding display.ini file from the Tasmota Github Space and up
 
 ### Step 4
 Adjust your Display via Console using commands like...
-> DisplayRotate<x>
++ DisplayRotate
 
 ### Restart and Go!
 
