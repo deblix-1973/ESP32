@@ -40,5 +40,5 @@ Adjust your Display via Console using commands like...
 > ![WebUI](https://github.com/user-attachments/assets/a8e20420-09a8-4834-abca-12677e112e40)
 
 ### Ready to Go!
-
+You can now start sending text to your display via MQTT.
 
