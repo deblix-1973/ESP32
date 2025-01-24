@@ -10,9 +10,9 @@ Open the Web UI and go to Configuration > Module
 
 | PIR | GPIO | Module |
 | :------ | :------ | :------ |
-| GND | GND | `GND` |
-| VCC | 3.3V | `3.3V` |
-| SCL | GPIO01 | `Switch` |
+| GND | GND |  |
+| VCC | 3.3V |  |
+| DATA | GPIO18 | `Switch` |
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
