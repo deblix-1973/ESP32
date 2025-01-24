@@ -26,7 +26,13 @@ Download the corresponding display.ini file from the Tasmota Github Space and up
 
 ### Step 4
 Adjust your Display via Console using commands like...
++ DisplayModel
++ DisplayMode
 + DisplayRotate
++ DisplayText
+
+> [!NOTE]
+The command **DisplayDimmer** will not work with this example as it is controlled via the slider in the WebUI.
 
 ### Restart and Go!
 
